@@ -27,7 +27,7 @@
         <podcast_image>https://pentest.springcast.dev/storage/artwork/3/158/default_artwork.png</podcast_image>
                     <itunes:category text=""/>
                                 <description>
-            <![CDATA[<script>&#x61;lert(1)</script>
+            <![CDATA[<scr&#x69;pt>&#x61;lert(1)</scr&#x69;pt>
             ]]>
         </description>
         <description_podcast_stripped>
