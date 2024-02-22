@@ -1,0 +1,46 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="/xslt/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+
+    <channel>
+
+
+        <atom:link href="https://pentest.springcast.dev/podcast-xml/97" rel="self" type="application/rss+xml"/>
+        <title><![CDATA[Templatepodcastshow]]></title>
+        <link>https://pentest.springcast.dev/podcast/templatepodcastshow</link>
+        <language>nl</language>
+        <copyright><![CDATA[Templatepodcastshow]]></copyright>
+        <itunes:subtitle><![CDATA[Templatepodcastshow]]></itunes:subtitle>
+        <itunes:author>Templatepodcastshow</itunes:author>
+        <itunes:summary>
+            <![CDATA[Templatepodcastshow
+            ]]>
+        </itunes:summary>
+        <itunes:owner>
+            <itunes:name>Templatepodcastshow</itunes:name>
+            <itunes:email>Templatepodcastshow@bestaatnietuwv.nl</itunes:email>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href=""/>
+        <podcast_image></podcast_image>
+                    <itunes:category text="Business">
+                <itunes:category text="Management"/>
+            </itunes:category>
+                                            <itunes:category text="Comedy">
+                    <itunes:category
+                        text="Stand-Up"/>
+                </itunes:category>
+                                                        <itunes:category text="Government"/>
+                            <description>
+            <![CDATA[test
+            ]]>
+        </description>
+        <description_podcast_stripped>
+            <![CDATA[Templatepodcastshow
+            ]]>
+        </description_podcast_stripped>
+            </channel>
+</rss>
