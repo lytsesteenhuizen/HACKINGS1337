@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet href="/xslt/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
@@ -7,39 +6,32 @@
     <channel>
 
 
-        <atom:link href="https://pentest.springcast.dev/podcast-xml/97" rel="self" type="application/rss+xml"/>
-        <title><![CDATA[Templatepodcastshow]]></title>
-        <link>https://pentest.springcast.dev/podcast/templatepodcastshow</link>
+        <atom:link href="https://pentest.springcast.dev/podcast-xml/158" rel="self" type="application/rss+xml"/>
+        <title><![CDATA[hertest22022024]]></title>
+        <link>https://pentest.springcast.dev/podcast/hertest22022024</link>
         <language>nl</language>
-        <copyright><![CDATA[Templatepodcastshow]]></copyright>
-        <itunes:subtitle><![CDATA[Templatepodcastshow]]></itunes:subtitle>
-        <itunes:author>Templatepodcastshow</itunes:author>
+        <copyright><![CDATA[test]]></copyright>
+        <itunes:subtitle><![CDATA[test]]></itunes:subtitle>
+        <itunes:author>test</itunes:author>
         <itunes:summary>
-            <![CDATA[Templatepodcastshow
+            <![CDATA[test
             ]]>
         </itunes:summary>
         <itunes:owner>
-            <itunes:name>Templatepodcastshow</itunes:name>
-            <itunes:email>Templatepodcastshow@bestaatnietuwv.nl</itunes:email>
+            <itunes:name>test</itunes:name>
+            <itunes:email>test@test.nl</itunes:email>
         </itunes:owner>
         <itunes:type>episodic</itunes:type>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href=""/>
-        <podcast_image></podcast_image>
-                    <itunes:category text="Business">
-                <itunes:category text="Management"/>
-            </itunes:category>
-                                            <itunes:category text="Comedy">
-                    <itunes:category
-                        text="Stand-Up"/>
-                </itunes:category>
-                                                        <itunes:category text="Government"/>
-                            <description>
+        <itunes:image href="https://pentest.springcast.dev/storage/artwork/3/158/default_artwork.png"/>
+        <podcast_image>https://pentest.springcast.dev/storage/artwork/3/158/default_artwork.png</podcast_image>
+                    <itunes:category text=""/>
+                                <description>
             <![CDATA[test
             ]]>
         </description>
         <description_podcast_stripped>
-            <![CDATA[Templatepodcastshow
+            <![CDATA[test
             ]]>
         </description_podcast_stripped>
             </channel>
